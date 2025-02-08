@@ -20,7 +20,7 @@ The program used was Kotlin and it uses Jetpack Compose for the UI.
 
 
 - [Kotlin Language Official Website](https://kotlinlang.org/)
-- [Jetpack Compose]([https://www.programiz.com/kotlin-programming](https://developer.android.com/compose))
+- [Jetpack Compose](https://developer.android.com/compose)
 - [W3 Schools](https://www.w3schools.com/KOTLIN/index.php)
 
 # Future Work
